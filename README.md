@@ -1,8 +1,11 @@
 ### Created Terraform configuration files for all the specified Azure resources. 
 
 The files include:
+
 `providers.tf`: Configures the Azure and Azure DevOps providers
+
 `variables.tf`: Defines input variables for resource group, location, and Azure DevOps credentials
+
 `main.tf`: Contains all the resource definitions for the Azure services you requested
 
 The configuration covers:
