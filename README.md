@@ -1,4 +1,4 @@
-### Created Terraform configuration files for all the specified Azure resources. 
+### Created Terraform configuration files with [kilocode](https://kilocode.ai/) for all the specified Azure resources. 
 
 The files include:
 
