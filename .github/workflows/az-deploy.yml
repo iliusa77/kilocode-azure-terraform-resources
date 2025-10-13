@@ -8,7 +8,7 @@ on:
         required: true
         default: "dev"
       tf_vars:
-        description: "Terraform variables in JSON format (e.g. '{\"location\":\"westeurope\",\"project\":\"myapp\"}')"
+        description: "Terraform variables in JSON format (e.g. '{\"location\":\"westeurope\",\"project\":\"myapp\",\"sql_administrator_login\":\"sqladmin\",\"sql_administrator_login_password\":\"P@ssw0rd123!\"}}')"
         required: false
         default: "{}"
 
