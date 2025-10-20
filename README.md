@@ -32,9 +32,6 @@ Apply the changes: `terraform apply`
 Make sure to set the required variables (org_service_url and personal_access_token for Azure DevOps) before running terraform apply.
 
 ### Описание Azure сервисов на русском
-
-Вот твой текст с аккуратно вставленными **пустыми строками** между блоками, чтобы он красиво отображался в Markdown-документе и хорошо читался 👇
-
 ---
 
 #### Azure Virtual Network (VNet)
@@ -262,6 +259,7 @@ Make sure to set the required variables (org_service_url and personal_access_tok
 ![alt text](./img/1.png)
 ![alt text](./img/2.png)
 ![alt text](./img/3.png)
+
 
 
 
